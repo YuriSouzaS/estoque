@@ -154,7 +154,7 @@ public class Model {
 
     public static void main(String[] args) {
         Model app = new Model();
-        // app.selectAll(); 
-        app.delete(2);      
+        app.selectAll(); 
+        // app.delete(2);      
     }
 }
